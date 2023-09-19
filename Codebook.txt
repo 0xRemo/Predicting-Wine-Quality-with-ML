@@ -1,0 +1,27 @@
+
+
+fixed acidity: Represents non-volatile acids in wine.
+
+volatile acidity: Amount of acetic acid, high levels can lead to a vinegar taste.
+
+citric acid: Adds freshness and flavor in small quantities, found in small quantities.
+
+residual sugar: Sugar content post fermentation.
+
+chlorides: Indicates the salt content in wine.
+
+free sulfur dioxide: SO2 present in free form.
+
+total sulfur dioxide: Total of free and bound forms of SO2.
+
+density: Density of wine, influenced by alcohol and sugar content.
+
+pH: Acidity measure,on a scale from 0 (very acidic) to 14 (very basic).
+
+sulphates: Additives contributing to SO2 levels, acting as an antioxidant.
+
+alcohol: Alcohol percentage in the wine.
+
+quality: Wine rating on a scale from 0 to 10
+
+QulaityType - the quality of the wine categorized into Low, Medium, High
